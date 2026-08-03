@@ -4,17 +4,193 @@
       "id": "area_dexnav",
       "name": "Area DexNav",
       "version": "1.0.0",
-      "description": "DexNav mod for areas",
-      "author": "Community",
+      "description": "Añade la función DexNav por área.",
+      "author": "Comunidad",
       "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/area_dexnav_v1.0.0.zip"
     },
     {
       "id": "catch_helper",
       "name": "Catch Helper",
       "version": "1.4.0",
-      "description": "Catch helper mod",
-      "author": "Community",
+      "description": "Asistente para facilitar las capturas.",
+      "author": "Comunidad",
       "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/catch_helper_v1.4.0.zip"
+    },
+    {
+      "id": "dv_ev_editor",
+      "name": "DV EV Editor",
+      "version": "1.0.0",
+      "description": "Permite editar DVs y EVs.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/dv_ev_editor_v1.0.0.zip"
+    },
+    {
+      "id": "eevee_three_stones",
+      "name": "Eevee Three Stones",
+      "version": "1.0.2",
+      "description": "Evoluciona a Eevee con las tres piedras clásicas.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/eevee_three_stones_v1.0.2.zip"
+    },
+    {
+      "id": "exp_share_modes",
+      "name": "Exp Share Modes",
+      "version": "1.0.0",
+      "description": "Diferentes modos para el Repartir Experiencia.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/exp_share_modes_v1.0.0.zip"
+    },
+    {
+      "id": "guaranteed_catch",
+      "name": "Guaranteed Catch",
+      "version": "1.0.0",
+      "description": "Captura 100% asegurada.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/guaranteed_catch_v1.0.0.zip"
+    },
+    {
+      "id": "hm_anywhere",
+      "name": "HM Anywhere",
+      "version": "1.1.0",
+      "description": "Usa las MO desde cualquier lugar.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/hm_anywhere_v1.1.0.zip"
+    },
+    {
+      "id": "item_shortcut",
+      "name": "Item Shortcut",
+      "version": "1.3.0",
+      "description": "Atajos rápidos para objetos clave.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/item_shortcut_v1.3.0.zip"
+    },
+    {
+      "id": "mew_mirage",
+      "name": "Mew Mirage",
+      "version": "1.0.1",
+      "description": "Evento/Encuentro con Mew.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/mew_mirage_v1.0.1.zip"
+    },
+    {
+      "id": "modern_bag",
+      "name": "Modern Bag",
+      "version": "1.3.0",
+      "description": "Mochila modernizada estilo generaciones nuevas.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/modern_bag_v1.3.0.zip"
+    },
+    {
+      "id": "move_inspector",
+      "name": "Move Inspector",
+      "version": "1.0.0",
+      "description": "Inspecciona los detalles de los movimientos.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/move_inspector_v1.0.0.zip"
+    },
+    {
+      "id": "moves_manager",
+      "name": "Moves Manager",
+      "version": "1.0.0",
+      "description": "Gestor de movimientos (recordar/olvidar).",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/moves_manager_v1.0.0.zip"
+    },
+    {
+      "id": "new_game_plus",
+      "name": "New Game Plus",
+      "version": "1.0.0",
+      "description": "Modo Nueva Partida +.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/new_game_plus_v1.0.0.zip"
+    },
+    {
+      "id": "quest_system",
+      "name": "Quest System",
+      "version": "1.0.3",
+      "description": "Sistema de misiones integrado.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/quest_system_v1.0.3.zip"
+    },
+    {
+      "id": "repel_reuse_prompt",
+      "name": "Repel Reuse Prompt",
+      "version": "1.0.0",
+      "description": "Pregunta automática para volver a usar Repelente.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/repel_reuse_prompt_v1.0.0.zip"
+    },
+    {
+      "id": "reusable_machines",
+      "name": "Reusable Machines",
+      "version": "1.0.1",
+      "description": "MTs reutilizables (estilo Gen 5+).",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/reusable_machines_v1.0.1.zip"
+    },
+    {
+      "id": "rocket_gym_ambushes",
+      "name": "Rocket Gym Ambushes",
+      "version": "1.0.1",
+      "description": "Emboscadas del Team Rocket en gimnasios.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/rocket_gym_ambushes_v1.0.1.zip"
+    },
+    {
+      "id": "summon",
+      "name": "Summon",
+      "version": "1.0.0",
+      "description": "Mecánica de invocación.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/summon_v1.0.0.zip"
+    },
+    {
+      "id": "team_rocket_returns",
+      "name": "Team Rocket Returns",
+      "version": "1.0.1",
+      "description": "Evento del regreso del Team Rocket.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/team_rocket_returns_v1.0.1.zip"
+    },
+    {
+      "id": "the_abandoned_cabin",
+      "name": "The Abandoned Cabin",
+      "version": "1.0.0",
+      "description": "Misión/Evento: La cabaña abandonada.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/the_abandoned_cabin_v1.0.0.zip"
+    },
+    {
+      "id": "the_sixth_bell",
+      "name": "The Sixth Bell",
+      "version": "1.1.1",
+      "description": "Misión/Evento: La sexta campana.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/the_sixth_bell_v1.1.1.zip"
+    },
+    {
+      "id": "the_stolen_fossil",
+      "name": "The Stolen Fossil",
+      "version": "1.0.1",
+      "description": "Misión/Evento: El fósil robado.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/the_stolen_fossil_v1.0.1.zip"
+    },
+    {
+      "id": "trade_evolution_fix",
+      "name": "Trade Evolution Fix",
+      "version": "1.0.0",
+      "description": "Arreglo para evoluciones por intercambio.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/trade_evolution_fix_v1.0.0.zip"
+    },
+    {
+      "id": "whispers_beneath_cerulean",
+      "name": "Whispers Beneath Cerulean",
+      "version": "1.0.1",
+      "description": "Misión/Evento bajo Ciudad Celeste.",
+      "author": "Comunidad",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/whispers_beneath_cerulean_v1.0.1.zip"
     }
   ]
 }
