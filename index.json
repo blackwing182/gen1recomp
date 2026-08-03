@@ -1,0 +1,20 @@
+{
+  "mods": [
+    {
+      "id": "area_dexnav",
+      "name": "Area DexNav",
+      "version": "1.0.0",
+      "description": "DexNav mod for areas",
+      "author": "Community",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/area_dexnav_v1.0.0.zip"
+    },
+    {
+      "id": "catch_helper",
+      "name": "Catch Helper",
+      "version": "1.4.0",
+      "description": "Catch helper mod",
+      "author": "Community",
+      "url": "https://raw.githubusercontent.com/blackwing182/gen1recomp/main/catch_helper_v1.4.0.zip"
+    }
+  ]
+}
