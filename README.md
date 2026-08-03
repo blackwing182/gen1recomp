@@ -3,9 +3,7 @@
 
 A collection of mods for the **original Pokémon Red** designed to make the game more modern, accessible, and content-rich.
 
-All mods are available in the repository:
-
-**[github.com/FAFF0x/gen1recomp](https://github.com/FAFF0x/gen1recomp)**
+repo test
 
 ---
 
